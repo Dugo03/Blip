@@ -1,0 +1,995 @@
+fileFormatVersion: 2
+guid: 17504cdb616928c48ad75eb37050db51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4843576187516241237
+    second: Blip U_0
+  - first:
+      213: -1289138545407633634
+    second: Blip U_1
+  - first:
+      213: 1023863001041393189
+    second: Blip U_2
+  - first:
+      213: 6647391621164408315
+    second: Blip U_3
+  - first:
+      213: 3316266476866072928
+    second: Blip U_4
+  - first:
+      213: 5274714294466948669
+    second: Blip U_5
+  - first:
+      213: 9191440833352920077
+    second: Blip U_6
+  - first:
+      213: 8148953487384644316
+    second: Blip U_7
+  - first:
+      213: -4403008310153570640
+    second: Blip U_8
+  - first:
+      213: -1996422503033941687
+    second: Blip U_9
+  - first:
+      213: 4139896049135098305
+    second: Blip U_10
+  - first:
+      213: 7013015781165026070
+    second: Blip U_11
+  - first:
+      213: -293536195233728441
+    second: Blip U_12
+  - first:
+      213: -5592180248811995643
+    second: Blip U_13
+  - first:
+      213: -4552030597050941176
+    second: Blip U_14
+  - first:
+      213: 1300851720041621374
+    second: Blip U_15
+  - first:
+      213: -3869647976827840494
+    second: Blip U_16
+  - first:
+      213: -93477116540923252
+    second: Blip U_17
+  - first:
+      213: -2114038373451833390
+    second: Blip U_18
+  - first:
+      213: 5135407693808930460
+    second: Blip U_19
+  - first:
+      213: 1664432425180745324
+    second: Blip U_20
+  - first:
+      213: 6400019350712019814
+    second: Blip U_21
+  - first:
+      213: 5337584098003709666
+    second: Blip U_22
+  - first:
+      213: 566304353347795760
+    second: Blip U_23
+  - first:
+      213: -560378903698724996
+    second: Blip U_24
+  - first:
+      213: 8714224486361516096
+    second: Blip U_25
+  - first:
+      213: 5100711589257495083
+    second: Blip U_26
+  - first:
+      213: 251254996641461517
+    second: Blip U_27
+  - first:
+      213: -4259277427915157165
+    second: Blip U_28
+  - first:
+      213: -3641767392487065928
+    second: Blip U_29
+  - first:
+      213: -8839979182770533930
+    second: Blip U_30
+  - first:
+      213: -6020085145993267439
+    second: Blip U_31
+  - first:
+      213: 6120668293704521897
+    second: Blip U_32
+  - first:
+      213: -3502869066984370397
+    second: Blip U_33
+  - first:
+      213: 8161234693166182301
+    second: Blip U_34
+  - first:
+      213: 1362750276376793867
+    second: Blip U_35
+  - first:
+      213: 2888378802059154517
+    second: Blip U_36
+  - first:
+      213: -9201025460561606269
+    second: Blip U_37
+  - first:
+      213: 3616152641714507724
+    second: Blip U_38
+  - first:
+      213: 3805870588527226153
+    second: Blip U_39
+  - first:
+      213: -440159824285418080
+    second: Blip U_40
+  - first:
+      213: 4220231512920111124
+    second: Blip U_41
+  - first:
+      213: 6765591265931473711
+    second: Blip U_42
+  - first:
+      213: -8610815130062373421
+    second: Blip U_43
+  - first:
+      213: -8644703533429963081
+    second: Blip U_44
+  - first:
+      213: 1288423204540111152
+    second: Blip U_45
+  - first:
+      213: -4595515082640652713
+    second: Blip U_46
+  - first:
+      213: 2024553228002889524
+    second: Blip U_47
+  - first:
+      213: 2533759348455851571
+    second: Blip U_48
+  - first:
+      213: 4269169735498407798
+    second: Blip U_49
+  - first:
+      213: 3756900583359271442
+    second: Blip U_50
+  - first:
+      213: 3462945017562559915
+    second: Blip U_51
+  - first:
+      213: 1317027377845664752
+    second: Blip U_52
+  - first:
+      213: 8377316771062991840
+    second: Blip U_53
+  - first:
+      213: 836070016983461945
+    second: Blip U_54
+  - first:
+      213: 910819530575943094
+    second: Blip U_55
+  - first:
+      213: -8772247895894266925
+    second: Blip U_56
+  - first:
+      213: -1608899429839545070
+    second: Blip U_57
+  - first:
+      213: -7600145430050406139
+    second: Blip U_58
+  - first:
+      213: -8730353961775970212
+    second: Blip U_59
+  - first:
+      213: -8931427204782469744
+    second: Blip U_60
+  - first:
+      213: -9137972232985301294
+    second: Blip U_61
+  - first:
+      213: -3234670499292190506
+    second: Blip U_62
+  - first:
+      213: -814263647471617662
+    second: Blip U_63
+  - first:
+      213: -4200670871826019259
+    second: Blip U_64
+  - first:
+      213: -8545954255059373687
+    second: Blip U_65
+  - first:
+      213: -4228319934575571225
+    second: Blip U_66
+  - first:
+      213: 8847423504503372362
+    second: Blip U_67
+  - first:
+      213: 7862663702309373694
+    second: Blip U_68
+  - first:
+      213: 5584246622995281570
+    second: Blip U_69
+  - first:
+      213: -574144315567465129
+    second: Blip U_70
+  - first:
+      213: 1538220379666839657
+    second: Blip U_71
+  - first:
+      213: 1764248130560468556
+    second: Blip U_72
+  - first:
+      213: -6187985659141198498
+    second: Blip U_73
+  - first:
+      213: 1592413778609766280
+    second: Blip U_74
+  - first:
+      213: 108500406249443466
+    second: Blip U_75
+  - first:
+      213: -3245933440036966447
+    second: Blip U_76
+  - first:
+      213: -4438228748781816660
+    second: Blip U_77
+  - first:
+      213: -4587107253532697289
+    second: Blip U_78
+  - first:
+      213: 3815110693916094308
+    second: Blip U_79
+  - first:
+      213: -5472781146160770085
+    second: Blip U_80
+  - first:
+      213: 7581554866441103450
+    second: Blip U_81
+  - first:
+      213: 7560890357796646098
+    second: Blip U_82
+  - first:
+      213: 767206643071745682
+    second: Blip U_83
+  - first:
+      213: -6618833298978371087
+    second: Blip U_84
+  - first:
+      213: 1369813577497688470
+    second: Blip U_85
+  - first:
+      213: 6546471632633839860
+    second: Blip U_86
+  - first:
+      213: -1560301883794736313
+    second: Blip U_87
+  - first:
+      213: 7421252722220573542
+    second: Blip U_88
+  - first:
+      213: -3995242015863640145
+    second: Blip U_89
+  - first:
+      213: -8405161905723181897
+    second: Blip U_90
+  - first:
+      213: -7196213484182352017
+    second: Blip U_91
+  - first:
+      213: 4576158000037147884
+    second: Blip U_92
+  - first:
+      213: 1373125769723402613
+    second: Blip U_93
+  - first:
+      213: -7823896088317408736
+    second: Blip U_94
+  - first:
+      213: 5696254958683736130
+    second: Blip U_95
+  - first:
+      213: -375391176082024820
+    second: Blip U_96
+  - first:
+      213: -9078242953490799878
+    second: Blip U_97
+  - first:
+      213: 7267257403147732711
+    second: Blip U_98
+  - first:
+      213: 3556708269299711456
+    second: Blip U_99
+  - first:
+      213: 1499955825948318788
+    second: Blip U_100
+  - first:
+      213: -6142757397658445638
+    second: Blip U_101
+  - first:
+      213: -4746793073863455914
+    second: Blip U_102
+  - first:
+      213: 4812764865396482771
+    second: Blip U_103
+  - first:
+      213: 1536814434220765881
+    second: Blip U_104
+  - first:
+      213: 7520155156184997201
+    second: Blip U_105
+  - first:
+      213: 2629485048464613278
+    second: Blip U_106
+  - first:
+      213: -6195639618196554316
+    second: Blip U_107
+  - first:
+      213: -5803647958179837584
+    second: Blip U_108
+  - first:
+      213: -2842616472506765195
+    second: Blip U_109
+  - first:
+      213: -1050788929596459551
+    second: Blip U_110
+  - first:
+      213: 3705404757621975304
+    second: Blip U_111
+  - first:
+      213: 1966295153995149301
+    second: Blip U_112
+  - first:
+      213: 1850997299204307594
+    second: Blip U_113
+  - first:
+      213: 889241390394401954
+    second: Blip U_114
+  - first:
+      213: 3703440939940057893
+    second: Blip U_115
+  - first:
+      213: -4533618945813561036
+    second: Blip U_116
+  - first:
+      213: 1254874804424272227
+    second: Blip U_117
+  - first:
+      213: 4638418067718319318
+    second: Blip U_118
+  - first:
+      213: 5277857932476660670
+    second: Blip U_119
+  - first:
+      213: -5888746098965652296
+    second: Blip U_120
+  - first:
+      213: -4580078587064521277
+    second: Blip U_121
+  - first:
+      213: -346768099218445266
+    second: Blip U_122
+  - first:
+      213: 7435370080566015523
+    second: Blip U_123
+  - first:
+      213: 8246994408110110330
+    second: Blip U_124
+  - first:
+      213: -3743397108987215825
+    second: Blip U_125
+  - first:
+      213: -5168029456939177760
+    second: Blip U_126
+  - first:
+      213: -8085879889399930547
+    second: Blip U_127
+  - first:
+      213: -4858879307566959777
+    second: Blip U_128
+  - first:
+      213: 1355724177069295899
+    second: Blip U_129
+  - first:
+      213: -8444958907180564332
+    second: Blip U_130
+  - first:
+      213: 3963955632891322875
+    second: Blip U_131
+  - first:
+      213: 536806400471522798
+    second: Blip U_132
+  - first:
+      213: 8052682612177973274
+    second: Blip U_133
+  - first:
+      213: -3623948484292046437
+    second: Blip U_134
+  - first:
+      213: -1006370190027832625
+    second: Blip U_135
+  - first:
+      213: -7074031870540718827
+    second: Blip U_136
+  - first:
+      213: -152332165660156091
+    second: Blip U_137
+  - first:
+      213: -6775955380573018068
+    second: Blip U_138
+  - first:
+      213: -5107019237510880471
+    second: Blip U_139
+  - first:
+      213: 7665535225155399787
+    second: Blip U_140
+  - first:
+      213: -8210351634377346301
+    second: Blip U_141
+  - first:
+      213: 2129753061740668887
+    second: Blip U_142
+  - first:
+      213: 3416695231726406095
+    second: Blip U_143
+  - first:
+      213: 4493356899425113371
+    second: Blip U_144
+  - first:
+      213: 7302803723278247319
+    second: Blip U_145
+  - first:
+      213: -6942288266604531060
+    second: Blip U_146
+  - first:
+      213: -1404621781757029899
+    second: Blip U_147
+  - first:
+      213: -250666282270743661
+    second: Blip U_148
+  - first:
+      213: 8959471476056721554
+    second: Blip U_149
+  - first:
+      213: 8986571780346790432
+    second: Blip U_150
+  - first:
+      213: -4920322012871058481
+    second: Blip U_151
+  - first:
+      213: -6075661789872526040
+    second: Blip U_152
+  - first:
+      213: 1441822126240385684
+    second: Blip U_153
+  - first:
+      213: 1665088237425918195
+    second: Blip U_154
+  - first:
+      213: 5087181975177683715
+    second: Blip U_155
+  - first:
+      213: 6259784051516544733
+    second: Blip U_156
+  - first:
+      213: -6139444109824180240
+    second: Blip U_157
+  - first:
+      213: 2328839625466694115
+    second: Blip U_158
+  - first:
+      213: 8032044559488150901
+    second: Blip U_159
+  - first:
+      213: 1844206747877922585
+    second: Blip U_160
+  - first:
+      213: -8893020600695176330
+    second: Blip U_161
+  - first:
+      213: 8509746624992982306
+    second: Blip U_162
+  - first:
+      213: -7643713746389708707
+    second: Blip U_163
+  - first:
+      213: -4892562966079622080
+    second: Blip U_164
+  - first:
+      213: 2993904090230449928
+    second: Blip U_165
+  - first:
+      213: 3448099816288638352
+    second: Blip U_166
+  - first:
+      213: -8728770041023828096
+    second: Blip U_167
+  - first:
+      213: 875205630872218556
+    second: Blip U_168
+  - first:
+      213: 7157014380590415779
+    second: Blip U_169
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blip U_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555427351e6d73340800000000000000
+      internalID: 4843576187516241237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d6b6b25f0c1ee0800000000000000
+      internalID: -1289138545407633634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526dcbb89fd753e00800000000000000
+      internalID: 1023863001041393189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9966c577404c50800000000000000
+      internalID: 6647391621164408315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06173265aceb50e20800000000000000
+      internalID: 3316266476866072928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ea06544bc833940800000000000000
+      internalID: 5274714294466948669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c65065dbe8e8f70800000000000000
+      internalID: 9191440833352920077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0eb29506e61170800000000000000
+      internalID: 8148953487384644316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61432254f55e2c0800000000000000
+      internalID: -4403008310153570640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d01d9f484b44e0800000000000000
+      internalID: -1996422503033941687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99db7c58dd37930800000000000000
+      internalID: 4139896049135098305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bcc8842bc335160800000000000000
+      internalID: 7013015781165026070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bf5ab2662debf0800000000000000
+      internalID: -293536195233728441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efa9d31b59462b0800000000000000
+      internalID: -5592180248811995643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c1182a40f3d0c0800000000000000
+      internalID: -4552030597050941176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7769864fbd8d0210800000000000000
+      internalID: 1300851720041621374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blip U_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181e57daaf3c4ac0800000000000000
+      internalID: -3869647976827840494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
