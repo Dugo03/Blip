@@ -3,8 +3,8 @@
     public interface IInputHandler
     {
         void OnActionButton (bool down);
-        void OnXAxis(float intensity);
-        void OnYAxis(float intensity);
+        void OnXAxis(int direction);
+        void OnYAxis(int direction);
         void OnRestartButton();
     }
 }

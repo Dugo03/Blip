@@ -7,16 +7,11 @@ namespace Blip.State
 {
     public class Context
     {
-        private MainMenuController MainMenuController { get; set; }
+        public MainMenuController MainMenuController { get; private set; }
 
         public Context(MainMenuController mainMenuController)
         {
             MainMenuController = mainMenuController;
-        }
-
-        internal void MainMenuSelect()
-        {
-            Debug.Log("Selected");
         }
     }
 }

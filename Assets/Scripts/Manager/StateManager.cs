@@ -11,7 +11,11 @@ namespace Blip.Manager
         public StateManager(BaseState initialState)
         {
             Stack = new Stack<BaseState>();
+
             GameManager.Instance.InputManager.SubscribeToActionButton(this);
+            GameManager.Instance.InputManager.SubscribeToXAxis(this);
+            GameManager.Instance.InputManager.SubscribeToYAxis(this);
+
             Stack.Push(initialState);
             initialState.Initialize(this);
         }
@@ -41,14 +45,14 @@ namespace Blip.Manager
             CurrentState().OnActionButton(down);
         }
 
-        public void XAxisEvent(float intensity)
+        public void XAxisEvent(int direction)
         {
-            throw new System.NotImplementedException();
+            CurrentState().OnXAxis(direction);
         }
 
-        public void YAxisEvent(float intensity)
+        public void YAxisEvent(int direction)
         {
-            throw new System.NotImplementedException();
+            CurrentState().OnYAxis(direction);
         }
 
         public void RestartButtonEvent()

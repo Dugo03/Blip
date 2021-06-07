@@ -27,9 +27,9 @@ namespace Blip.State
 
         public virtual void OnActionButton(bool down) { }
 
-        public virtual void OnXAxis(float intensity) { }
+        public virtual void OnXAxis(int direction) { }
 
-        public virtual void OnYAxis(float intensity) { }
+        public virtual void OnYAxis(int direction) { }
 
         public virtual void OnRestartButton() { }
 

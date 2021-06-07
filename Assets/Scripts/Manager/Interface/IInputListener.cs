@@ -3,8 +3,8 @@
     public interface IInputListener
     {
         void ActionButtonEvent (bool down);
-        void XAxisEvent(float intensity);
-        void YAxisEvent(float intensity);
+        void XAxisEvent(int direction);
+        void YAxisEvent(int direction);
         void RestartButtonEvent();
     }
 }
